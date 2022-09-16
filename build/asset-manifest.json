@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/danielqiuu/IEEE_react_workshop_demo/static/css/main.8492f433.css",
-    "main.js": "/danielqiuu/IEEE_react_workshop_demo/static/js/main.ce480315.js",
-    "static/js/787.a2bf511c.chunk.js": "/danielqiuu/IEEE_react_workshop_demo/static/js/787.a2bf511c.chunk.js",
-    "static/media/proj3.webp": "/danielqiuu/IEEE_react_workshop_demo/static/media/proj3.419d7d3eb4e124126660.webp",
-    "static/media/proj2.jpg": "/danielqiuu/IEEE_react_workshop_demo/static/media/proj2.496e4d289eaa0f409ab8.jpg",
-    "static/media/proj1.jpg": "/danielqiuu/IEEE_react_workshop_demo/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
-    "static/media/me.jpg": "/danielqiuu/IEEE_react_workshop_demo/static/media/me.aa24b3bc8382633f6892.jpg",
-    "index.html": "/danielqiuu/IEEE_react_workshop_demo/index.html",
-    "main.8492f433.css.map": "/danielqiuu/IEEE_react_workshop_demo/static/css/main.8492f433.css.map",
-    "main.ce480315.js.map": "/danielqiuu/IEEE_react_workshop_demo/static/js/main.ce480315.js.map",
-    "787.a2bf511c.chunk.js.map": "/danielqiuu/IEEE_react_workshop_demo/static/js/787.a2bf511c.chunk.js.map"
+    "main.css": "/danielqiuu/IEEE_React_Workshop_Demo/static/css/main.8492f433.css",
+    "main.js": "/danielqiuu/IEEE_React_Workshop_Demo/static/js/main.a47baaff.js",
+    "static/js/787.a2bf511c.chunk.js": "/danielqiuu/IEEE_React_Workshop_Demo/static/js/787.a2bf511c.chunk.js",
+    "static/media/proj3.webp": "/danielqiuu/IEEE_React_Workshop_Demo/static/media/proj3.419d7d3eb4e124126660.webp",
+    "static/media/proj2.jpg": "/danielqiuu/IEEE_React_Workshop_Demo/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/proj1.jpg": "/danielqiuu/IEEE_React_Workshop_Demo/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "static/media/me.jpg": "/danielqiuu/IEEE_React_Workshop_Demo/static/media/me.aa24b3bc8382633f6892.jpg",
+    "index.html": "/danielqiuu/IEEE_React_Workshop_Demo/index.html",
+    "main.8492f433.css.map": "/danielqiuu/IEEE_React_Workshop_Demo/static/css/main.8492f433.css.map",
+    "main.a47baaff.js.map": "/danielqiuu/IEEE_React_Workshop_Demo/static/js/main.a47baaff.js.map",
+    "787.a2bf511c.chunk.js.map": "/danielqiuu/IEEE_React_Workshop_Demo/static/js/787.a2bf511c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8492f433.css",
-    "static/js/main.ce480315.js"
+    "static/js/main.a47baaff.js"
   ]
 }
